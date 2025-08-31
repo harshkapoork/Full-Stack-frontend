@@ -14,7 +14,7 @@ import { useEffect, useState } from 'react';
 
 function App() {
  
-  const baseURL = process.env.React_App_Api_Base_Url
+  const baseURL = https://full-stack-ce7x.onrender.com/
   console.log(baseURL)
   
 
